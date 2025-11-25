@@ -1,2 +1,2 @@
-# Xi-an-Eurasia-University-courses-automatically-added-to-macOS-Reminders
+# Xi-an-Eurasia-University-Tool
 西安欧亚学院课程自动写入macos提醒事项
